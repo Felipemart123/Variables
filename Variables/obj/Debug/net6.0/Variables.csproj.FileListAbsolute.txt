@@ -1,0 +1,15 @@
+/Users/guillermomartinez/repos/Variables/Variables/bin/Debug/net6.0/Variables
+/Users/guillermomartinez/repos/Variables/Variables/bin/Debug/net6.0/Variables.deps.json
+/Users/guillermomartinez/repos/Variables/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/Users/guillermomartinez/repos/Variables/Variables/bin/Debug/net6.0/Variables.dll
+/Users/guillermomartinez/repos/Variables/Variables/bin/Debug/net6.0/Variables.pdb
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/Variables.dll
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/refint/Variables.dll
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/Variables.pdb
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/Users/guillermomartinez/repos/Variables/Variables/obj/Debug/net6.0/ref/Variables.dll
